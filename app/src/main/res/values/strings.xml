@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">work</string>
+    <string name="hint_name">请输入用户名</string>
+    <string name="hint_pwd">请输入密码</string>
+    <string name="bt_text">get登录</string>
+    <string name="bt_post">post登录</string>
+    <string name="bt_post_text_file">POST提交文本和文件</string>
+    <string name="hint_path">请输入要上传文件的地址</string>
+    <string name="number">请输入电话号码</string>
+    <string name="find">查询</string>
+    <string name="blueTooth">Buletooth</string>
+    <string name="turn_on">Turn On</string>
+    <string name="visible">Get Visible</string>
+    <string name="devices">List Devices</string>
+    <string name="turn_off">Turn Off</string>
+</resources>

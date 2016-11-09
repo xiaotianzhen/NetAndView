@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_qurry_web_service"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dong.work.QurryWebService"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/et_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/number"/>
+    <Button
+        android:id="@+id/bt_find"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/find"/>
+
+</LinearLayout>
