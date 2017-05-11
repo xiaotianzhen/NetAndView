@@ -3,6 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ativitydialog/ativitydialog.iml" filepath="$PROJECT_DIR$/ativitydialog/ativitydialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customindicator/customindicator.iml" filepath="$PROJECT_DIR$/customindicator/customindicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getmessage/getmessage.iml" filepath="$PROJECT_DIR$/getmessage/getmessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nohttp/nohttp.iml" filepath="$PROJECT_DIR$/nohttp/nohttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" filepath="$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refresh/refresh.iml" filepath="$PROJECT_DIR$/refresh/refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sortviewpagerdemo/sortviewpagerdemo.iml" filepath="$PROJECT_DIR$/sortviewpagerdemo/sortviewpagerdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/work.iml" filepath="$PROJECT_DIR$/work.iml" />
     </modules>
   </component>

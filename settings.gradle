@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':customview', ':ativitydialog', ':customindicator', ':nohttp', ':sortviewpagerdemo', ':okhttpdemo', ':refresh', ':getmessage'
