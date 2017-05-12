@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <array name="iconName">
+       <item>首页</item>
+       <item>礼包</item>
+       <item>用户</item>
+       <item>社区</item>
+       <item>福利</item>
+       <item>首页</item>
+       <item>礼包</item>
+       <item>用户</item>
+       <item>社区</item>
+       <item>福利</item>
+       <item>用户</item>
+       <item>社区</item>
+       <item>福利</item>
+       <item>首页</item>
+       <item>礼包</item>
+       <item>用户</item>
+   </array>
+    <array name="icon">
+        <item>@drawable/home</item>
+        <item>@drawable/store</item>
+        <item>@drawable/user</item>
+        <item>@drawable/community</item>
+        <item>@drawable/welfare</item>
+        <item>@drawable/ck_home</item>
+        <item>@drawable/ck_community</item>
+        <item>@drawable/ck_store</item>
+        <item>@drawable/ck_user</item>
+        <item>@drawable/ck_welfare</item>
+        <item>@drawable/user</item>
+        <item>@drawable/community</item>
+        <item>@drawable/welfare</item>
+        <item>@drawable/ck_home</item>
+        <item>@drawable/ck_community</item>
+        <item>@drawable/ck_store</item>
+    </array>
+</resources>
