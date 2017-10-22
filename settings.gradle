@@ -1,1 +1,1 @@
-include ':app', ':customview', ':ativitydialog', ':customindicator', ':nohttp', ':sortviewpagerdemo', ':okhttpdemo', ':refresh', ':getmessage'
+include ':app', ':nohttpdemo', ':refresh', ':materialrefreshlayout', ':customindicator', ':customview', ':ativitydialog', ':nohttp', ':okhttpdemo', ':sortviewpagerdemo', ':getmessage', ':caiyixuanindicator'

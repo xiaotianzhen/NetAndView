@@ -5,19 +5,20 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.dong.refresh.MainActivity">
+    android:orientation="vertical"
+    tools:context="com.qianwang.refresh.MainActivity"
+    >
 
-    <com.cjj.MaterialRefreshLayout
-        android:id="@+id/refresh"
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/sRefresh_layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         >
+
         <android.support.v7.widget.RecyclerView
             android:id="@+id/recyclerView"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
-        </android.support.v7.widget.RecyclerView>
-
-    </com.cjj.MaterialRefreshLayout>
-
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"/>
+    </android.support.v4.widget.SwipeRefreshLayout>
 </LinearLayout>

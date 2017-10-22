@@ -10,6 +10,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.dong.work.server.LoginServer;
+import com.qianwang.work.R;
 
 public class LoginDemo extends AppCompatActivity {
     private EditText name, password,et_path;

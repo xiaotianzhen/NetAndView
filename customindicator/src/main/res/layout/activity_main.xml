@@ -2,12 +2,11 @@
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.dong.customindicator.MainActivity">
+   >
 
     <android.support.v4.view.ViewPager
         android:id="@+id/viewPager"
@@ -15,14 +14,15 @@
         android:layout_height="200dp"
         />
 
-    <com.dong.customindicator.Indicator
+    <com.yicooll.dong.customindicator.Indicator
         android:id="@+id/indicator"
-        android:layout_width="60dp"
+        android:layout_width="match_parent"
         android:layout_height="60dp"
         android:layout_alignBottom="@id/viewPager"
         android:layout_centerHorizontal="true"
         app:indicatorForeColor="#37df16"
+        app:indicatorBgColor="@color/colorAccent"
         app:indicatorNum="4"
-        app:radiu="10"
+        app:radiu="3"
         />
 </RelativeLayout>
